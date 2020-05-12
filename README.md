@@ -1,5 +1,6 @@
 # repositorio-trabajo-clase
 repositorio trabajo en clase
 
-## Sub-titulo
-"Arbol"; una estructura viviente que nace de la tierra.
+## Definiciones
+"Arbol": Una estructura viviente que nace de la tierra.
+"Pajaro": Animal que tiene la habilidad de volar, sin embargo existen aves como el pinguino que no vuelan.
